@@ -1,5 +1,6 @@
 {
 	"prices": {
+		"minion.dirt": "50",
 		"minion.diamond": "5000",
 		"minion.coal": "2000",
 		"minion.iron": "2500",
